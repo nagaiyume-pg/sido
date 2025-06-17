@@ -1,0 +1,22 @@
+{
+  "name": "sido",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagaiyume-pg/sido.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagaiyume-pg/sido/issues"
+  },
+  "homepage": "https://github.com/nagaiyume-pg/sido#readme",
+  "devDependencies": {
+    "electron": "^36.4.0"
+  }
+}
